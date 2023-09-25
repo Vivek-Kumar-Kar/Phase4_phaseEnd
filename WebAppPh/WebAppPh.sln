@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPh", "WebAppPh\WebAppPh.csproj", "{96E3DF99-BBD0-4E05-99C6-24939A231289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F3E0433E-1EF5-45BB-A005-F7F810694176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALTest", "DALTest\DALTest.csproj", "{F665C6F0-1F17-4BF1-B5D3-A73B524FAE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E3DF99-BBD0-4E05-99C6-24939A231289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E3DF99-BBD0-4E05-99C6-24939A231289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E3DF99-BBD0-4E05-99C6-24939A231289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E3DF99-BBD0-4E05-99C6-24939A231289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E0433E-1EF5-45BB-A005-F7F810694176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E0433E-1EF5-45BB-A005-F7F810694176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E0433E-1EF5-45BB-A005-F7F810694176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E0433E-1EF5-45BB-A005-F7F810694176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F665C6F0-1F17-4BF1-B5D3-A73B524FAE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F665C6F0-1F17-4BF1-B5D3-A73B524FAE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F665C6F0-1F17-4BF1-B5D3-A73B524FAE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F665C6F0-1F17-4BF1-B5D3-A73B524FAE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D2EB8E-75C0-4CF8-B7F4-281B5B7459F8}
+	EndGlobalSection
+EndGlobal

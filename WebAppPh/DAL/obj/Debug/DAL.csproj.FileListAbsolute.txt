@@ -1,0 +1,12 @@
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\DAL.dll
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\DAL.pdb
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\obj\Debug\DAL.dll
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\obj\Debug\DAL.pdb
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\DAL.dll.config
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\EntityFramework.dll
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\EntityFramework.xml
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Phase4\PhaseEndProjectFinal\WebAppPh\DAL\obj\Debug\DAL.csproj.CopyComplete
